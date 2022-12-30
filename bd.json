@@ -1,0 +1,27 @@
+{
+    "project1": {
+        "img": "img/snake.png",
+        "description": "Моя первая работа с pygame",
+        "link": "https://www.youtube.com/watch?v=zGl0-fuyKyc"
+    },
+    "project2": {
+        "img": "img/calculator.jfif",
+        "description": "Очень милый калькулятор,подойдет для брутальных мужчин.",
+        "link": "https://epuk.github.io/CalcExam/"
+    },
+    "project3": {
+        "img": "img/todolist.jfif",
+        "description": "Стандартный ТoDo List.",
+        "link": "https://epuk.github.io/ToDoList/"
+    },
+    "project4": {
+        "img": "img/githubget.jfif",
+        "description": "Выдает вам профиля GitHub,с никами и аватарками,также местом жительством если они его указали.",
+        "link": "https://epuk.github.io/GitHubChecker/"
+    },
+    "project5": {
+        "img": "img/prompt.jfif",
+        "description": "Калькулятор гения программирования на промпте.",
+        "link": "https://epuk.github.io/PromptCalc/"
+    }
+}
